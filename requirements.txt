@@ -1,6 +1,5 @@
-langchain
-langchain-openai
-openai
+langchain==0.0.352
+openai==1.6.1
 python-dotenv
 jupyter
 ipykernel
